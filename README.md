@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @endritsul
-- 👀 I’m interested in IT
+- 👀 I’m interested in IT, Coding and Cybersecurity
 - 🌱 I’m currently learning System Engineering
